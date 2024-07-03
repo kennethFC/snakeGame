@@ -1,7 +1,7 @@
 import random
 juego = []
 
-numTablero = int(input("ingrese el tamaño del tablero:  "))
+numTablero = int(input("Ingrese el tamaño del tablero:  "))
 cantidadManzanas = 1
 cantidadOstaculos = 3
 
