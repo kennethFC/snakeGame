@@ -9,7 +9,7 @@ for f in range(numTablero):
  juego.append([''] * numTablero ) #espacios en blanco
              
 if numTablero <= 4:
- print("El minino de juego debe de ser 4 filas y 4 columnas")
+ print("Error -> El minino de juego debe de ser 4 filas y 4 columnas")
 
 
         #repeticion aleatoria
